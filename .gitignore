@@ -1,0 +1,16 @@
+# Compilados de Java
+bin/
+*.class
+
+# Datos generados en runtime (no forman parte del codigo fuente)
+datos/*.json
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
